@@ -13,8 +13,4 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         
 server: 
- port: 8082
- 
-insuranceAPI:
- uri: http://192.168.99.100:8081/insurance
- key: user:password       
+ port: 8082    
