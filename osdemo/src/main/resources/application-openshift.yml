@@ -13,4 +13,4 @@ spring:
         driver-class-name: com.mysql.jdbc.Driver
         
 server: 
- port: 8082    
+ port: 8080    
