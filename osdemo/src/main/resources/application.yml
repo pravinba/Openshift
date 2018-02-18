@@ -1,5 +1,5 @@
 spring:
-    profiles: openshift
+    profiles: default
   
     jpa:
         database: MYSQL
